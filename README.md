@@ -1,8 +1,9 @@
 [![Contributors][contributors-shield]](https://img.shields.io/github/contributors/mugilanD98/GNscraper)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/GNscraper)
+[![Issues][issues-shield]](https://github.com/mugilanD98/GNscraper/issues)
 [![Forks][forks-shield]](https://github.com/mugilanD98/GNscraper/network/members)
 ![GitHub User's stars](https://img.shields.io/github/stars/mugilanD98?style=social)
-[![Issues][issues-shield]](https://github.com/mugilanD98/GNscraper/issues)
+
 
 
 <br />  
